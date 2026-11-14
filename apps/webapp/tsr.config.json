@@ -1,3 +1,11 @@
 {
-  "target": "react"
+  "target": "react",
+  "routeTreeFileHeader": [
+    "/* eslint-disable */",
+    "// @ts-nocheck",
+    "// noinspection JSUnusedGlobalSymbols",
+    "// biome-ignore-all format: auto-generated file",
+    "// biome-ignore-all lint: auto-generated file",
+    "// biome-ignore-all assist: auto-generated file"
+  ]
 }
