@@ -24,6 +24,6 @@
   "type": "module",
   "devDependencies": {
     "@biomejs/biome": "2.6.7",
-    "turbo": "^2.11.7"
+    "turbo": "^2.11.11"
   }
 }
