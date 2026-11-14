@@ -16,13 +16,14 @@
   "devEngines": {
     "packageManager": {
       "name": "pnpm",
-      "version": "12.10.1",
+      "version": "12.18.0",
       "onFail": "download"
     }
   },
-  "packageManager": "pnpm@12.10.1",
+  "packageManager": "pnpm@12.18.0",
   "type": "module",
   "devDependencies": {
+    "@biomejs/biome": "2.6.7",
     "turbo": "^2.11.7"
   }
 }
