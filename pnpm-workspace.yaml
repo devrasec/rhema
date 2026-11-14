@@ -4,3 +4,13 @@ packages:
 allowBuilds:
   esbuild: true
   lightningcss: true
+overrides:
+  '@storybook/addon-mcp@>=10.6.0 <10.6.2': ^10.6.2
+  '@storybook/addon-vitest@>=10.0.0 <10.6.2': ^10.6.2
+  esbuild@<=0.24.2: ^0.25.0
+  glob@>=9.0.0 <=14.0.1: ^14.0.2
+  minimatch@>=7.0.0 <11.0.1: ^11.0.1
+  seroval@>=1.5.5 <1.6.10: ^1.6.10
+  seroval@>=1.6.0 <1.6.11: ^1.6.11
+  storybook@>=10.0.0 <10.6.2: ^10.6.2
+  zod@<4.6.6: ^4.6.6
